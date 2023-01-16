@@ -1,0 +1,16 @@
+ 
+ h1{
+     color:black
+ }
+ 
+ p{
+     color:black
+ }
+ .header{
+     background-color: cadetblue;
+     display: flex;
+     justify-content: space-around;
+ }
+ *{
+     background-color: #0F7;
+ }
